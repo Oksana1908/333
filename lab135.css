@@ -1,0 +1,29 @@
+body{
+  background-image: url(world-map.png);
+  height: 300vh;
+  width: 100%;
+  background-size: contain;
+  background-color: #fff;
+  background-repeat: no-repeat;
+}
+h1{
+    letter-spacing: 2px;
+    font-family :cursive;
+    text-align :center;
+    font-style
+    font-weight : bold;
+
+  }
+
+h2{
+  font-family: cursive;
+  letter-spacing: 2px;
+  text-align center;
+  font-style :italic;
+  font-weight: normal;
+}
+a:active{
+  color: blue;
+}
+
+
